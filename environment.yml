@@ -12,7 +12,7 @@ dependencies:
   - pip
   - pip:
     - git+https://github.com/jupyterlab/jupyterlab-git.git
-  - tensorflow-gpu
+  - tensorflow-gpu==1.14.0
   - cudatoolkit
   - keras
   - pycocotools
