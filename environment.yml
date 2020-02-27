@@ -16,5 +16,4 @@ dependencies:
   - cudatoolkit
   - keras
   - scikit-image
-  - cv2
  ### You can add more below in the same format (eg. - packagename)
