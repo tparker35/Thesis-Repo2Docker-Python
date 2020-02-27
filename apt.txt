@@ -2,3 +2,4 @@
 
 #You can just list the package names here:
 libglib2.0-0
+libgl1-mesa-glx
